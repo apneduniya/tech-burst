@@ -1,0 +1,27 @@
+Sreejita19:50
+na
+its fine
+You19:56
+Planning of sreejita - Desktop page
+Atharva Pise20:00
+Pixel Pusher: Day 1 Updates
+- Basic Template Design Ready
+- Navigation Bar added
+- 2 Routes created (index -- about)
+any other detail can be found in the Pixel Pusher thread in #tech-burst channel
+Sreejita20:02
+day 2: 
+work done - just decided the design
+planning to complete the desktop page by tomorrow
+wow looks amazing
+You20:03
+Problem of sreejita - How to make things responsive on tablet layout
+Sreejita20:06
+inspiration from : https://www.youtube.com/watch?v=G_ZIJseX6AU `
+You20:11
+Meeting time - 19:50 to 20:10
+Atharva Pise20:11
+sure
+Sreejita20:11
+ya cool
+ok thanks

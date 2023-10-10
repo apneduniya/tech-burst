@@ -1,3 +1,249 @@
+-- ds.page:
+document-title: Tech Burst - PRD
+site-name: Tech Burst
+site-logo: 
 
 
--- ftd.text: I love fastn
+-- ftd.column:
+margin-vertical.px: 10
+spacing.fixed.px: 5
+
+-- ftd.text: Title
+color: $inherited.colors.text-strong
+style: bold
+role: $inherited.types.heading-tiny
+
+-- ftd.text: Portfolio Website
+color: $inherited.colors.text-strong
+role: $inherited.types.copy-regular
+margin-bottom.px: 5
+
+
+-- ftd.text: Purpose
+color: $inherited.colors.text-strong
+style: bold
+role: $inherited.types.heading-tiny
+
+-- ftd.text: To showcase your skills, expertise and projects.
+color: $inherited.colors.text-strong
+role: $inherited.types.copy-regular
+margin-bottom.px: 5
+
+-- ftd.text: Overview
+color: $inherited.colors.text-strong
+style: bold
+role: $inherited.types.heading-tiny
+
+-- ftd.text: A portfolio website is a great way to showcase your skills and expertise to potential employers. It is a way to tell your story and show your personality. It is also a great way to show your projects and skills.
+color: $inherited.colors.text-strong
+role: $inherited.types.copy-regular
+margin-bottom.px: 5
+
+-- end: ftd.column
+
+-- ftd.column:
+margin-vertical.px: 10
+spacing.fixed.px: 5
+
+-- ftd.text: Start Date: 9th October, 2023
+color: $inherited.colors.text-strong
+style: bold
+role: $inherited.types.heading-tiny
+
+-- ftd.text: End Date: 
+color: $inherited.colors.text-strong
+style: bold
+role: $inherited.types.heading-tiny
+
+-- end: ftd.column
+
+-- ftd.text: Team Members
+color: $inherited.colors.text-strong
+style: bold
+role: $inherited.types.heading-tiny
+
+-- ftd.text: Adarsh, Atahrva, Sreejita
+color: $inherited.colors.text-strong
+role: $inherited.types.copy-regular
+
+-- ftd.column:
+margin-vertical.px: 10
+spacing.fixed.px: 5
+
+-- ftd.text: Work done
+color: $inherited.colors.text-strong
+style: bold
+role: $inherited.types.heading-tiny
+
+-- ftd.column:
+margin-vertical.px: 10
+spacing.fixed.px: 5
+
+-- ftd.text: 10th October, 2023
+color: $inherited.colors.text-strong
+role: $inherited.types.copy-regular
+
+-- ftd.text: Atahrva and Sreejita has made the designs of the website. Atahrva has also started the coding whereas Sreejita will start by tonight. Adarsh has created half of the design till now.
+color: $inherited.colors.text-strong
+role: $inherited.types.copy-regular
+
+-- end: ftd.column
+
+-- ftd.text: Work in progress
+margin-top.px: 10
+color: $inherited.colors.text-strong
+style: bold
+role: $inherited.types.heading-tiny
+
+-- ftd.column:
+margin-top.px: 5
+spacing.fixed.px: 5
+
+-- ftd.text: 10th October, 2023
+color: $inherited.colors.text-strong
+role: $inherited.types.copy-regular
+
+-- ftd.text: Atahrva is continuing with the coding. Sreejita is too starting the coding. Adarsh has completed the design and is starting to create a colour scheme for the website.
+color: $inherited.colors.text-strong
+role: $inherited.types.copy-regular
+
+-- end: ftd.column
+
+-- end: ftd.column
+
+-- ftd.column:
+margin-vertical.px: 10
+spacing.fixed.px: 5
+
+-- ftd.text: Challenges and Issues
+color: $inherited.colors.text-strong
+style: bold
+role: $inherited.types.heading-tiny
+
+-- ftd.column:
+margin-vertical.px: 10
+spacing.fixed.px: 5
+
+-- ftd.text: 10th October, 2023
+color: $inherited.colors.text-strong
+role: $inherited.types.copy-regular
+
+-- ftd.text: Sreejita wants to know how to create responsive page for tablets.
+color: $inherited.colors.text-strong
+role: $inherited.types.copy-regular
+
+-- end: ftd.column
+
+-- end: ftd.column
+
+-- ftd.column:
+margin-vertical.px: 10
+spacing.fixed.px: 5
+
+-- ftd.text: Milestones achieved
+color: $inherited.colors.text-strong
+style: bold
+role: $inherited.types.heading-tiny
+
+-- ftd.column:
+margin-vertical.px: 10
+spacing.fixed.px: 5
+
+-- ftd.text: 10th October, 2023
+color: $inherited.colors.text-strong
+role: $inherited.types.copy-regular
+
+-- ftd.text: Atahrva and Sreejita has completed the design of the website.
+color: $inherited.colors.text-strong
+role: $inherited.types.copy-regular
+
+-- end: ftd.column
+
+-- ftd.text: Upcoming Milestones
+margin-top.px: 10
+color: $inherited.colors.text-strong
+style: bold
+role: $inherited.types.heading-tiny
+
+-- ftd.column:
+margin-vertical.px: 10
+spacing.fixed.px: 5
+
+-- ftd.text: 10th October, 2023
+color: $inherited.colors.text-strong
+role: $inherited.types.copy-regular
+
+-- ftd.text: Adarsh will complete the design and Sreejita will make the website responsive for desktops.
+color: $inherited.colors.text-strong
+role: $inherited.types.copy-regular
+
+-- end: ftd.column
+
+-- end: ftd.column
+
+;; -- ftd.text: Demo Day Planning:
+;; margin-vertical.px: 10
+;; color: $inherited.colors.text-strong
+
+-- ftd.column:
+margin-vertical.px: 10
+spacing.fixed.px: 5
+
+-- ftd.text: Minutes of Meeting
+color: $inherited.colors.text-strong
+style: bold
+role: $inherited.types.heading-tiny
+
+-- ftd.column:
+margin-vertical.px: 10
+spacing.fixed.px: 5
+
+-- ftd.text: Meeting Date: 10th October, 2023
+color: $inherited.colors.text-strong
+role: $inherited.types.copy-regular
+
+-- ftd.text: Attendees: Adarsh, Atahrva, Sreejita
+color: $inherited.colors.text-strong
+role: $inherited.types.copy-regular
+
+-- ftd.text: Agenda: To discuss the progress of the project. 
+color: $inherited.colors.text-strong
+role: $inherited.types.copy-regular
+
+-- ftd.text: Action Items: Adarsh will complete the design and Sreejita will make the website responsive for desktops.
+color: $inherited.colors.text-strong
+role: $inherited.types.copy-regular
+
+-- end: ftd.column
+
+-- end: ftd.column
+
+-- ftd.column:
+margin-vertical.px: 10
+spacing.fixed.px: 5
+
+-- ftd.text: References
+color: $inherited.colors.text-strong
+style: bold
+role: $inherited.types.heading-tiny
+
+-- ftd.text: https://iconscout.com/
+color: $inherited.colors.text-strong
+role: $inherited.types.copy-regular
+
+-- ftd.text: https://www.youtube.com/watch?v=G_ZIJseX6AU
+color: $inherited.colors.text-strong
+role: $inherited.types.copy-regular
+
+-- end: ftd.column
+
+;; -- ftd.text: Date: 
+;; color: $inherited.colors.text-strong
+
+;; -- ftd.text: WorkDone: 
+;; color: $inherited.colors.text-strong
+
+;; -- ftd.text: Minutes of Meeting: 15
+;; color: $inherited.colors.text-strong
+
+-- end: ds.page
