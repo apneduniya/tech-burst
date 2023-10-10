@@ -1,0 +1,40 @@
+-- ds.page: Adarsh Home Page
+
+Owner: Adarsh (link)
+Sprint: Fastober-1 (link)
+Repo: 
+Design: 
+
+Status: In Progress
+
+-- ds.h1: 10th Oct
+
+- Adarsh created the design
+
+-- ds.h1: 9th Oct
+
+- Project Kick Off
+
+-- ds.h1: Design
+
+Describe the design. Link to Figma. Mention name of each page if there is going to be more than one page.
+
+-- ds.h1: Audiance Of This Project
+
+People who are interested in Adarsh, professionally are the key audiance of this page. THis page would
+be linked from Adarsh various social media profiles, resume etc. 
+
+-- ds.h1: Goal of This Project (for the audiance)
+
+THis page is to show off Adarsh in the best light possible. Maybe get a job.
+
+This is a single page website. It has 5 sections
+
+-- ds.h2: Hero 1
+
+-- ds.image:
+src: hero.png
+
+This section shows basic informaiton about me..
+
+-- end: ds.page
