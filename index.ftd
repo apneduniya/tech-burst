@@ -13,10 +13,12 @@ color: $inherited.colors.text-strong
 style: bold
 role: $inherited.types.heading-tiny
 
--- ftd.text: Portfolio Website
+-- ftd.text: 
 color: $inherited.colors.text-strong
 role: $inherited.types.copy-regular
 margin-bottom.px: 5
+
+Portfolio Website
 
 
 -- ftd.text: Purpose
@@ -24,20 +26,24 @@ color: $inherited.colors.text-strong
 style: bold
 role: $inherited.types.heading-tiny
 
--- ftd.text: To showcase your skills, expertise and projects.
+-- ftd.text: 
 color: $inherited.colors.text-strong
 role: $inherited.types.copy-regular
 margin-bottom.px: 5
+
+To showcase your skills, expertise and projects.
 
 -- ftd.text: Overview
 color: $inherited.colors.text-strong
 style: bold
 role: $inherited.types.heading-tiny
 
--- ftd.text: A portfolio website is a great way to showcase your skills and expertise to potential employers. It is a way to tell your story and show your personality. It is also a great way to show your projects and skills.
+-- ftd.text: 
 color: $inherited.colors.text-strong
 role: $inherited.types.copy-regular
 margin-bottom.px: 5
+
+A portfolio website is a great way to showcase your skills and expertise to potential employers. It is a way to tell your story and show your personality. It is also a great way to show your projects and skills.
 
 -- end: ftd.column
 
@@ -62,9 +68,11 @@ color: $inherited.colors.text-strong
 style: bold
 role: $inherited.types.heading-tiny
 
--- ftd.text: Adarsh, Atahrva, Sreejita
+-- ftd.text: 
 color: $inherited.colors.text-strong
 role: $inherited.types.copy-regular
+
+Adarsh, Atahrva, Sreejita
 
 -- ftd.column:
 margin-vertical.px: 10
@@ -79,13 +87,19 @@ role: $inherited.types.heading-tiny
 margin-vertical.px: 10
 spacing.fixed.px: 5
 
--- ftd.text: 10th October, 2023
+-- ftd.text: 
 color: $inherited.colors.text-strong
 role: $inherited.types.copy-regular
 
--- ftd.text: Atahrva and Sreejita has made the designs of the website. Atahrva has also started the coding whereas Sreejita will start by tonight. Adarsh has created half of the design till now.
+10th October, 2023
+
+-- ftd.text: 
 color: $inherited.colors.text-strong
 role: $inherited.types.copy-regular
+
+Atahrva and Sreejita has made the designs of the website. Atahrva has also started the coding whereas Sreejita will start by tonight. Adarsh has created half of the design till now.       
+Atahrva design - https://www.canva.com/design/DAFw0laJiuk/yCTFEaPUVcMh_snbzlPO-g/edit?utm_content=DAFw0laJiuk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Sreejita design - https://docs.google.com/presentation/d/15ZHbI43pQHbNuK0kwOSw6m4CE-k1fWrH/edit?usp=drive_link&ouid=116336101988633535319&rtpof=true&sd=true
 
 -- end: ftd.column
 
@@ -99,13 +113,17 @@ role: $inherited.types.heading-tiny
 margin-top.px: 5
 spacing.fixed.px: 5
 
--- ftd.text: 10th October, 2023
+-- ftd.text: 
 color: $inherited.colors.text-strong
 role: $inherited.types.copy-regular
 
--- ftd.text: Atahrva is continuing with the coding. Sreejita is too starting the coding. Adarsh has completed the design and is starting to create a colour scheme for the website.
+10th October, 2023
+
+-- ftd.text: 
 color: $inherited.colors.text-strong
 role: $inherited.types.copy-regular
+
+Atahrva is continuing with the coding. Sreejita is too starting the coding. Adarsh has completed the design and is starting to create a colour scheme for the website.
 
 -- end: ftd.column
 
@@ -124,13 +142,17 @@ role: $inherited.types.heading-tiny
 margin-vertical.px: 10
 spacing.fixed.px: 5
 
--- ftd.text: 10th October, 2023
+-- ftd.text: 
 color: $inherited.colors.text-strong
 role: $inherited.types.copy-regular
 
--- ftd.text: Sreejita wants to know how to create responsive page for tablet layout.
+10th October, 2023
+
+-- ftd.text: 
 color: $inherited.colors.text-strong
 role: $inherited.types.copy-regular
+
+Sreejita wants to know how to create responsive page for tablet layout.
 
 -- end: ftd.column
 
@@ -149,13 +171,17 @@ role: $inherited.types.heading-tiny
 margin-vertical.px: 10
 spacing.fixed.px: 5
 
--- ftd.text: 10th October, 2023
+-- ftd.text: 
 color: $inherited.colors.text-strong
 role: $inherited.types.copy-regular
 
--- ftd.text: Atahrva and Sreejita has completed the design of the website. Atahrva has made the navbar and 2 pages: Home & About.
+10th October, 2023
+
+-- ftd.text: 
 color: $inherited.colors.text-strong
 role: $inherited.types.copy-regular
+
+Atahrva and Sreejita has completed the design of the website. Atahrva has made the navbar and 2 pages - Home & About.
 
 -- end: ftd.column
 
@@ -169,13 +195,17 @@ role: $inherited.types.heading-tiny
 margin-vertical.px: 10
 spacing.fixed.px: 5
 
--- ftd.text: 10th October, 2023
+-- ftd.text: 
 color: $inherited.colors.text-strong
 role: $inherited.types.copy-regular
 
--- ftd.text: Adarsh will complete the design and Sreejita will make the website responsive for desktops.
+10th October, 2023
+
+-- ftd.text: 
 color: $inherited.colors.text-strong
 role: $inherited.types.copy-regular
+
+Adarsh will complete the design and Sreejita will make the website responsive for desktops.
 
 -- end: ftd.column
 
@@ -198,25 +228,35 @@ role: $inherited.types.heading-tiny
 margin-vertical.px: 10
 spacing.fixed.px: 5
 
--- ftd.text: Meeting Date: 10th October, 2023
+-- ftd.text: 
 color: $inherited.colors.text-strong
 role: $inherited.types.copy-regular
 
--- ftd.text: Meeting Timing: 19:50 - 20:10 (20 minutes)
+Meeting Date - 10th October, 2023
+
+-- ftd.text: 
 color: $inherited.colors.text-strong
 role: $inherited.types.copy-regular
 
--- ftd.text: Attendees: Adarsh, Atahrva, Sreejita
+Meeting Timing - 19:50 - 20:10 (20 minutes)
+
+-- ftd.text: 
 color: $inherited.colors.text-strong
 role: $inherited.types.copy-regular
 
--- ftd.text: Agenda: To discuss the progress of the project. 
+Attendees - Adarsh, Atahrva, Sreejita
+
+-- ftd.text: 
 color: $inherited.colors.text-strong
 role: $inherited.types.copy-regular
 
--- ftd.text: Action Items: Adarsh will complete the design and Sreejita will make the website responsive for desktops.
+Agenda - To discuss the progress of the project. To discuss the challenges and issues faced by the team members. To discuss the upcoming milestones.
+
+-- ftd.text: 
 color: $inherited.colors.text-strong
 role: $inherited.types.copy-regular
+
+Action Items - Adarsh will complete the design and Sreejita will make the website responsive for desktops. Atahrva will continue with the coding.
 
 -- end: ftd.column
 
@@ -231,13 +271,17 @@ color: $inherited.colors.text-strong
 style: bold
 role: $inherited.types.heading-tiny
 
--- ftd.text: https://iconscout.com/
+-- ftd.text: 
 color: $inherited.colors.text-strong
 role: $inherited.types.copy-regular
 
--- ftd.text: https://www.youtube.com/watch?v=G_ZIJseX6AU
+https://iconscout.com/
+
+-- ftd.text: 
 color: $inherited.colors.text-strong
 role: $inherited.types.copy-regular
+
+https://www.youtube.com/watch?v=G_ZIJseX6AU
 
 -- end: ftd.column
 
