@@ -1,144 +1,18 @@
--- ds.page:
-document-title: Tech Burst - PRD
+-- ds.page: Tech Burst
 site-name: Tech Burst
-site-logo: 
+
+TechBurst team was created on 9th Oct 2023. Discord: [#tech-burst on 
+fastn-stack](https://discord.com/channels/793929082483769345/1160945605087068291).
+
+-- ds.h1: Team Members
+
+[Adarsh](https://thatsmeadarsh.co) is the team lead of team Tech Burst, and current we also have
+Sreejit and Athrava are part of our team.
 
 
--- ftd.column:
-margin-vertical.px: 10
-spacing.fixed.px: 5
+-- ds.h1: Sprints
 
--- ftd.text: Title
-color: $inherited.colors.text-strong
-style: bold
-role: $inherited.types.heading-tiny
-
--- ftd.text: 
-color: $inherited.colors.text-strong
-role: $inherited.types.copy-regular
-margin-bottom.px: 5
-
-Portfolio Website
-
-
--- ftd.text: Purpose
-color: $inherited.colors.text-strong
-style: bold
-role: $inherited.types.heading-tiny
-
--- ftd.text: 
-color: $inherited.colors.text-strong
-role: $inherited.types.copy-regular
-margin-bottom.px: 5
-
-To showcase your skills, expertise and projects.
-
--- ftd.text: Overview
-color: $inherited.colors.text-strong
-style: bold
-role: $inherited.types.heading-tiny
-
--- ftd.text: 
-color: $inherited.colors.text-strong
-role: $inherited.types.copy-regular
-margin-bottom.px: 5
-
-A portfolio website is a great way to showcase your skills and expertise to potential employers. It is a way to tell your story and show your personality. It is also a great way to show your projects and skills.
-
--- end: ftd.column
-
--- ftd.column:
-margin-vertical.px: 10
-spacing.fixed.px: 5
-
--- ftd.text: Start Date: 9th October, 2023
-color: $inherited.colors.text-strong
-style: bold
-role: $inherited.types.heading-tiny
-
--- ftd.text: End Date: 
-color: $inherited.colors.text-strong
-style: bold
-role: $inherited.types.heading-tiny
-
--- end: ftd.column
-
--- ftd.text: Team Members
-color: $inherited.colors.text-strong
-style: bold
-role: $inherited.types.heading-tiny
-
--- ftd.text: 
-color: $inherited.colors.text-strong
-role: $inherited.types.copy-regular
-
-Adarsh, Atahrva, Sreejita
-
--- ftd.column:
-margin-vertical.px: 10
-spacing.fixed.px: 5
-
--- ftd.text: Work done
-color: $inherited.colors.text-strong
-style: bold
-role: $inherited.types.heading-tiny
-
--- ftd.column:
-margin-vertical.px: 10
-spacing.fixed.px: 5
-
--- ftd.text: 
-color: $inherited.colors.text-strong
-role: $inherited.types.copy-regular
-
-10th October, 2023
-
--- ftd.text: 
-color: $inherited.colors.text-strong
-role: $inherited.types.copy-regular
-
-Atahrva and Sreejita has made the designs of the website. Atahrva has also started the coding whereas Sreejita will start by tonight. Adarsh has created half of the design till now. 
-      
-Atahrva design - https://www.canva.com/design/DAFw0laJiuk/yCTFEaPUVcMh_snbzlPO-g/edit?utm_content=DAFw0laJiuk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-Sreejita design - https://docs.google.com/presentation/d/15ZHbI43pQHbNuK0kwOSw6m4CE-k1fWrH/edit?usp=drive_link&ouid=116336101988633535319&rtpof=true&sd=true               
-Adarsh design - https://www.figma.com/file/qKIskaCZF6GMARG3JTeVqX/fastn-portfolio-website?type=design&node-id=0%3A1&mode=design&t=W5JCMDN2eclPd2UV-1
-
--- end: ftd.column
-
--- ftd.text: Work in progress
-margin-top.px: 10
-color: $inherited.colors.text-strong
-style: bold
-role: $inherited.types.heading-tiny
-
--- ftd.column:
-margin-top.px: 5
-spacing.fixed.px: 5
-
--- ftd.text: 
-color: $inherited.colors.text-strong
-role: $inherited.types.copy-regular
-
-10th October, 2023
-
--- ftd.text: 
-color: $inherited.colors.text-strong
-role: $inherited.types.copy-regular
-
-Atahrva is continuing with the coding. Sreejita is too starting the coding. Adarsh has completed the design and is starting to create a colour scheme for the website.
-
--- end: ftd.column
-
--- end: ftd.column
-
--- ftd.column:
-margin-vertical.px: 10
-spacing.fixed.px: 5
-
--- ftd.text: Challenges and Issues
-color: $inherited.colors.text-strong
-style: bold
-role: $inherited.types.heading-tiny
+- [Fastober-1](sprints/fastober-1/)
 
 -- ftd.column:
 margin-vertical.px: 10
@@ -156,7 +30,6 @@ role: $inherited.types.copy-regular
 
 Sreejita wants to know how to create responsive page for tablet layout.
 
--- end: ftd.column
 
 -- end: ftd.column
 
