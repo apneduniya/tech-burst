@@ -1,0 +1,47 @@
+-- ds.page: Atharva Home Page
+
+Owner: [Atharva](https://github.com/at-the-vr)
+Sprint: [Fastober-1](sprints/fastober-1)
+Repo: [Pixel-Pusher](https://github.com/at-the-vr/Pixel-Pusher)
+Design: [Link to Canva](https://pixel-pusher.my.canva.site/)
+
+Status: In Progress
+
+-- ds.h1: 11th Oct
+
+- Atharva created Hero, Projects and Skills components and populated /index route with same components.
+
+-- ds.h1: 10th Oct
+
+- Atharva created 2 navigation routes /index and /about.
+- Atharva created and added a Navbar component into both.
+
+-- ds.h1: 9th Oct
+
+- Project Kick Off
+
+-- ds.h1: Design
+
+The Design here is a straightforward black and white combination of text elements alongside navigation links.
+
+-- ds.h3: 2 Pages are showcased:
+body: Home Page(index) & About Page(about)
+
+-- ds.h3: [Link to Canva](https://pixel-pusher.my.canva.site/)
+
+-- ds.h1: Audience Of This Project
+
+Developers that like clean designs.
+
+-- ds.h1: Goal of This Project
+
+This project is showcasing how simple websites can bring all the relevant information for a Recruiter on a single page.
+
+;; -- ds.h2: Hero 1
+
+;; -- ds.image:
+;; src: hero.png
+
+;; This section shows basic informaiton about me..
+
+-- end: ds.page

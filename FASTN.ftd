@@ -19,6 +19,8 @@ favicon: /-/apneduniya.github.io/tech-burst/favicon.ico
 - Projects
   - Adarsh Home Page: /adarsh-home-page/
     document: projects/adarsh-home-page.ftd
+  - Atharva Home Page: /atharva-home-page/
+    document: projects/atharva-home-page.ftd
 - Sprints
   - Fast Ober: /fast-ober/
-    document: sprints/fast-ober-1.ftd
+    document: sprints/fastober-1.ftd
