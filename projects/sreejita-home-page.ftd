@@ -1,0 +1,48 @@
+-- ds.page: Sreejita Home Page
+
+Owner: [Sreejita](https://github.com/sreejitaduttaa)
+
+Sprint: [fastober-1](sprints/fastober-1)
+
+Repo: [Portfolio](https://github.com/sreejitaduttaa/fastn-portfolio)
+
+
+Design: [Link to ppt](https://docs.google.com/presentation/d/15ZHbI43pQHbNuK0kwOSw6m4CE-k1fWrH/edit?usp=drive_link&ouid=116336101988633535319&rtpof=true&sd=true)
+
+Status: In Progress
+
+-- ds.h1: 11th Oct
+
+- No progress made
+
+-- ds.h1: 10th Oct
+
+- Atharva created 2 navigation routes /index and /about.
+- Atharva created and added a Navbar component into both.
+
+-- ds.h1: 9th Oct
+
+- Project Kick Off
+
+-- ds.h1: Design
+
+The Design contains a single page showcasing the developer's picture, name, skills, interest on the left side and their projects, experience on the right. 
+
+[Link to ppt](https://docs.google.com/presentation/d/15ZHbI43pQHbNuK0kwOSw6m4CE-k1fWrH/edit?usp=drive_link&ouid=116336101988633535319&rtpof=true&sd=true)
+
+-- ds.h1: Audience Of This Project
+
+Developers looking for cool and compact portfolio.
+
+-- ds.h1: Goal of This Project
+
+To display every detail in a compact way yet making it look good and elegant. 
+
+;; -- ds.h2: Hero 1
+
+;; -- ds.image:
+;; src: hero.png
+
+;; This section shows basic informaiton about me..
+
+-- end: ds.page
