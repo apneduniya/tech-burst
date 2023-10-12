@@ -7,13 +7,21 @@ Design: [Link to Canva](https://pixel-pusher.my.canva.site/)
 
 Status: In Progress
 
+-- ds.h1: 12th Oct
+
+- Atharva updated content inside /update route, this include About Container, an Image taken from unsplash, and a Key Feature Container for the site.
+- Atharva refactored Navbar component.
+- Atharva updated background color for whole site for an eggshell-ish color.
+- Atharva reduced text size (roles) for all text elements in the Project.
+
 -- ds.h1: 11th Oct
 
-- no progress made
+- Atharva created Hero, Projects and Skills components and populated /index route with same components.
 
 -- ds.h1: 10th Oct
 
-- finalised the design
+- Atharva created 2 navigation routes /index and /about.
+- Atharva created and added a Navbar component into both.
 
 -- ds.h1: 9th Oct
 
