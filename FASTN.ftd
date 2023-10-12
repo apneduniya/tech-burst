@@ -23,6 +23,7 @@ favicon: /-/apneduniya.github.io/tech-burst/favicon.ico
     document: projects/atharva-home-page.ftd
   - Sreejita Home Page: /sreejita-home-page/
     document: projects/sreejita-home-page.ftd
+    
 - Sprints:  /sprints/
   - Fast Ober: /sprints/fastober-1/
     document: sprints/fastober-1.ftd
