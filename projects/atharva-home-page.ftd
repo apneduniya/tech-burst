@@ -7,6 +7,18 @@ Design: [Link to Canva](https://pixel-pusher.my.canva.site/)
 
 Status: In Progress
 
+-- ds.h1: 14th Oct
+
+- A patch is suggested by Adarsh for bringing animations into any fastn project using wow.js
+- The fix did worked on a clean fastn-stack template.
+- Plans for bringing similar animations for Pixel-Pusher are set for 15th Oct
+
+-- ds.h1: 13th Oct
+
+- Atharva tried to bring animations into the Project, he also consulted to Adarsh about that.
+- So far it did not worked.
+- The Basic UI for the Pixel-Pusher is completed as of 12th Oct 2023.
+
 -- ds.h1: 12th Oct
 
 - Atharva updated content inside /update route, this include About Container, an Image taken from unsplash, and a Key Feature Container for the site.

@@ -14,6 +14,8 @@
     - Design: [Link to Canva](https://pixel-pusher.my.canva.site/)
 
 - Project Status: In Progress
+    - 14th Oct 2023: Suggestion from Adarsh was applied to a clean fastn-stack project, Planned to implement the same in Pixel-Pusher.
+    - 13th Oct 2023: tried bringing animations/transitions into Pixel-Pusher, did not succeeded.
     - 12th Oct 2023: updated content inside /update route, this include About Container, an Image taken from unsplash, and a Key Feature Container for the site, refactored Navbar component, updated background color for whole site for an eggshell-ish color, reduced text size (roles) for all text elements in the Project.
     - 11th Oct 2023: components for Index route are created (Hero, Projects, Skills), Footer is created and added to index route.
     - 10th Oct 2023: Template Design created in Canva and shared to Team, Pixel-Pusher Project created using fastn-stack template. 2 Navigation Routes (/ and /about) are created. Navbar is created and added to both routes.
