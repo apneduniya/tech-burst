@@ -1,6 +1,6 @@
 -- ds.page: Sreejita Home Page
 
-Owner: [Sreejita](https://github.com/sreejitaduttaa)
+Owner: [Sreejita](https://www.linkedin.com/in/sreejitadutta/)
 
 Sprint: [fastober-1](sprints/fastober-1)
 
@@ -9,7 +9,13 @@ Repo: [Portfolio](https://github.com/sreejitaduttaa/fastn-portfolio)
 
 Design: [Link to ppt](https://docs.google.com/presentation/d/15ZHbI43pQHbNuK0kwOSw6m4CE-k1fWrH/edit?usp=drive_link&ouid=116336101988633535319&rtpof=true&sd=true)
 
-Status: In Progress
+Status: [In Progress](https://sreejitaduttaa.github.io/fastn-portfolio)
+
+-- ds.h1: 15th Oct
+
+- Enhanced the desktop UI a bit
+- Added another skill set to the sidebar and an about me section 
+- Then spent a good amount of time trying to figure the steps to make it responsive for mobile, and noted down all the changes to be made. 
 
 -- ds.h1: 14th Oct
 
