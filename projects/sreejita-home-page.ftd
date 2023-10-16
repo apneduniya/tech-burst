@@ -11,15 +11,20 @@ Design: [Link to ppt](https://docs.google.com/presentation/d/15ZHbI43pQHbNuK0kwO
 
 Status: [In Progress](https://sreejitaduttaa.github.io/fastn-portfolio)
 
+
+
+-- ds.h1: 16th Oct
+
+- Added the customisable theme option, where user can change the primary color of the site according to their preference
+
 -- ds.h1: 15th Oct
 
 - Enhanced the desktop UI a bit
 - Added another skill set to the sidebar and an about me section 
-- Then spent a good amount of time trying to figure the steps to make it responsive for mobile, and noted down all the changes to be made. 
 
 -- ds.h1: 14th Oct
 
-- Completed the whole UI for desktop, yet to make it responsive. 
+- Completed the whole UI for desktop, yet to make it responsive
 
 -- ds.h1: 13th Oct
 
