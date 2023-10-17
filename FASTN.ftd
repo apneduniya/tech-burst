@@ -14,7 +14,7 @@ favicon: /-/apneduniya.github.io/tech-burst/favicon.ico
 
 -- fastn.sitemap:
 
-# Home: /
+# Home: index.html
 
 # Projects:  /projects/adarsh-home-page/
 - Adarsh Home Page: /adarsh-home-page/

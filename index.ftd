@@ -19,159 +19,194 @@ site-name: Tech Burst
 
 - [Fastober-1](sprints/fastober-1/)
 
--- ftd.column:
-margin-vertical.px: 10
-spacing.fixed.px: 5
 
--- ftd.text: 
-color: $inherited.colors.text-strong
-role: $inherited.types.copy-regular
+-- ds.h2: Project Overview:
 
-10th October, 2023
-
--- ftd.text: 
-color: $inherited.colors.text-strong
-role: $inherited.types.copy-regular
-
-Sreejita wants to know how to create responsive page for tablet layout.
+-
 
 
--- end: ftd.column
+-- ds.h2: Goals and Objectives of the Project
 
--- ftd.column:
-margin-vertical.px: 10
-spacing.fixed.px: 5
+-
 
--- ftd.text: Milestones achieved
-color: $inherited.colors.text-strong
-style: bold
-role: $inherited.types.heading-tiny
+-- ds.h2: Technology Stack
 
--- ftd.column:
-margin-vertical.px: 10
-spacing.fixed.px: 5
+- language is ftd
 
--- ftd.text: 
-color: $inherited.colors.text-strong
-role: $inherited.types.copy-regular
 
-10th October, 2023
 
--- ftd.text: 
-color: $inherited.colors.text-strong
-role: $inherited.types.copy-regular
+-- ds.h2: Project Agenda
 
-Atahrva and Sreejita has completed the design of the website. Atahrva has made the navbar and 2 pages - Home & About.
 
--- end: ftd.column
 
--- ftd.text: Upcoming Milestones
-margin-top.px: 10
-color: $inherited.colors.text-strong
-style: bold
-role: $inherited.types.heading-tiny
+-- ds.h2: Work Status
 
--- ftd.column:
-margin-vertical.px: 10
-spacing.fixed.px: 5
+-
 
--- ftd.text: 
-color: $inherited.colors.text-strong
-role: $inherited.types.copy-regular
+;; -- ds.h2: First Demo Day
 
-10th October, 2023
 
--- ftd.text: 
-color: $inherited.colors.text-strong
-role: $inherited.types.copy-regular
 
-Adarsh will complete the design and Sreejita will make the website responsive for desktops.
+-- ds.h2: References
 
--- end: ftd.column
-
--- end: ftd.column
-
-;; -- ftd.text: Demo Day Planning:
-;; margin-vertical.px: 10
-;; color: $inherited.colors.text-strong
-
--- ftd.column:
-margin-vertical.px: 10
-spacing.fixed.px: 5
-
--- ftd.text: Minutes of Meeting
-color: $inherited.colors.text-strong
-style: bold
-role: $inherited.types.heading-tiny
-
--- ftd.column:
-margin-vertical.px: 10
-spacing.fixed.px: 5
-
--- ftd.text: 
-color: $inherited.colors.text-strong
-role: $inherited.types.copy-regular
-
-Meeting Date - 10th October, 2023
-
--- ftd.text: 
-color: $inherited.colors.text-strong
-role: $inherited.types.copy-regular
-
-Meeting Timing - 19:50 - 20:10 (20 minutes)
-
--- ftd.text: 
-color: $inherited.colors.text-strong
-role: $inherited.types.copy-regular
-
-Attendees - Adarsh, Atahrva, Sreejita
-
--- ftd.text: 
-color: $inherited.colors.text-strong
-role: $inherited.types.copy-regular
-
-Agenda - To discuss the progress of the project. To discuss the challenges and issues faced by the team members. To discuss the upcoming milestones.
-
--- ftd.text: 
-color: $inherited.colors.text-strong
-role: $inherited.types.copy-regular
-
-Action Items - Adarsh will complete the design and Sreejita will make the website responsive for desktops. Atahrva will continue with the coding.
-
--- end: ftd.column
-
--- end: ftd.column
-
--- ftd.column:
-margin-vertical.px: 10
-spacing.fixed.px: 5
-
--- ftd.text: References
-color: $inherited.colors.text-strong
-style: bold
-role: $inherited.types.heading-tiny
-
--- ftd.text: 
-color: $inherited.colors.text-strong
-role: $inherited.types.copy-regular
-
-https://iconscout.com/
-
--- ftd.text: 
-color: $inherited.colors.text-strong
-role: $inherited.types.copy-regular
-
-https://www.youtube.com/watch?v=G_ZIJseX6AU
-
--- end: ftd.column
-
-;; -- ftd.text: Date: 
-;; color: $inherited.colors.text-strong
-
-;; -- ftd.text: WorkDone: 
-;; color: $inherited.colors.text-strong
-
-;; -- ftd.text: Minutes of Meeting: 15
-;; color: $inherited.colors.text-strong
+- https://www.youtube.com/watch?v=G_ZIJseX6AU
+- https://iconscout.com/
 
 -- end: ds.page
+
+
+;; -- ftd.column:
+;; margin-vertical.px: 10
+;; spacing.fixed.px: 5
+
+;; -- ftd.text: 
+;; color: $inherited.colors.text-strong
+;; role: $inherited.types.copy-regular
+
+;; 10th October, 2023
+
+;; -- ftd.text: 
+;; color: $inherited.colors.text-strong
+;; role: $inherited.types.copy-regular
+
+;; Sreejita wants to know how to create responsive page for tablet layout.
+
+
+;; -- end: ftd.column
+
+;; -- ftd.column:
+;; margin-vertical.px: 10
+;; spacing.fixed.px: 5
+
+;; -- ftd.text: Milestones achieved
+;; color: $inherited.colors.text-strong
+;; style: bold
+;; role: $inherited.types.heading-tiny
+
+;; -- ftd.column:
+;; margin-vertical.px: 10
+;; spacing.fixed.px: 5
+
+;; -- ftd.text: 
+;; color: $inherited.colors.text-strong
+;; role: $inherited.types.copy-regular
+
+;; 10th October, 2023
+
+;; -- ftd.text: 
+;; color: $inherited.colors.text-strong
+;; role: $inherited.types.copy-regular
+
+;; Atahrva and Sreejita has completed the design of the website. Atahrva has made the navbar and 2 pages - Home & About.
+
+;; -- end: ftd.column
+
+;; -- ftd.text: Upcoming Milestones
+;; margin-top.px: 10
+;; color: $inherited.colors.text-strong
+;; style: bold
+;; role: $inherited.types.heading-tiny
+
+;; -- ftd.column:
+;; margin-vertical.px: 10
+;; spacing.fixed.px: 5
+
+;; -- ftd.text: 
+;; color: $inherited.colors.text-strong
+;; role: $inherited.types.copy-regular
+
+;; 10th October, 2023
+
+;; -- ftd.text: 
+;; color: $inherited.colors.text-strong
+;; role: $inherited.types.copy-regular
+
+;; Adarsh will complete the design and Sreejita will make the website responsive for desktops.
+
+;; -- end: ftd.column
+
+;; -- end: ftd.column
+
+;; ;; -- ftd.text: Demo Day Planning:
+;; ;; margin-vertical.px: 10
+;; ;; color: $inherited.colors.text-strong
+
+;; -- ftd.column:
+;; margin-vertical.px: 10
+;; spacing.fixed.px: 5
+
+;; -- ftd.text: Minutes of Meeting
+;; color: $inherited.colors.text-strong
+;; style: bold
+;; role: $inherited.types.heading-tiny
+
+;; -- ftd.column:
+;; margin-vertical.px: 10
+;; spacing.fixed.px: 5
+
+;; -- ftd.text: 
+;; color: $inherited.colors.text-strong
+;; role: $inherited.types.copy-regular
+
+;; Meeting Date - 10th October, 2023
+
+;; -- ftd.text: 
+;; color: $inherited.colors.text-strong
+;; role: $inherited.types.copy-regular
+
+;; Meeting Timing - 19:50 - 20:10 (20 minutes)
+
+;; -- ftd.text: 
+;; color: $inherited.colors.text-strong
+;; role: $inherited.types.copy-regular
+
+;; Attendees - Adarsh, Atahrva, Sreejita
+
+;; -- ftd.text: 
+;; color: $inherited.colors.text-strong
+;; role: $inherited.types.copy-regular
+
+;; Agenda - To discuss the progress of the project. To discuss the challenges and issues faced by the team members. To discuss the upcoming milestones.
+
+;; -- ftd.text: 
+;; color: $inherited.colors.text-strong
+;; role: $inherited.types.copy-regular
+
+;; Action Items - Adarsh will complete the design and Sreejita will make the website responsive for desktops. Atahrva will continue with the coding.
+
+;; -- end: ftd.column
+
+;; -- end: ftd.column
+
+;; -- ftd.column:
+;; margin-vertical.px: 10
+;; spacing.fixed.px: 5
+
+;; -- ftd.text: References
+;; color: $inherited.colors.text-strong
+;; style: bold
+;; role: $inherited.types.heading-tiny
+
+;; -- ftd.text: 
+;; color: $inherited.colors.text-strong
+;; role: $inherited.types.copy-regular
+
+;; https://iconscout.com/
+
+;; -- ftd.text: 
+;; color: $inherited.colors.text-strong
+;; role: $inherited.types.copy-regular
+
+;; https://www.youtube.com/watch?v=G_ZIJseX6AU
+
+;; -- end: ftd.column
+
+;; ;; -- ftd.text: Date: 
+;; ;; color: $inherited.colors.text-strong
+
+;; ;; -- ftd.text: WorkDone: 
+;; ;; color: $inherited.colors.text-strong
+
+;; ;; -- ftd.text: Minutes of Meeting: 15
+;; ;; color: $inherited.colors.text-strong
+

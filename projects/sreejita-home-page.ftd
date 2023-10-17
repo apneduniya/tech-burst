@@ -4,12 +4,14 @@ Owner: [Sreejita](https://www.linkedin.com/in/sreejitadutta/)
 
 Sprint: [fastober-1](sprints/fastober-1)
 
-Repo: [Portfolio](https://github.com/sreejitaduttaa/fastn-portfolio)
+Project: [Portfolio Link](https://sreejitaduttaa.github.io/fastn-portfolio/)
+
+Repo: [Github](https://github.com/sreejitaduttaa/fastn-portfolio)
 
 
-Design: [Link to ppt](https://docs.google.com/presentation/d/15ZHbI43pQHbNuK0kwOSw6m4CE-k1fWrH/edit?usp=drive_link&ouid=116336101988633535319&rtpof=true&sd=true)
+Design: [Canva](https://www.canva.com/design/DAFxgjJRKek/ZxUt8qpbsWhxO4nGpuhVIg/edit?utm_content=DAFxgjJRKek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-Status: [In Progress](https://sreejitaduttaa.github.io/fastn-portfolio)
+Status: In Progress
 
 
 
@@ -50,9 +52,9 @@ Status: [In Progress](https://sreejitaduttaa.github.io/fastn-portfolio)
 
 -- ds.h1: Design
 
-The Design contains a single page showcasing the developer's picture, name, skills, interest on the left side and their projects, experience on the right. 
+The Design contains a single page showcasing the developer's picture, name, about me, skills on the left side bar and their projects, experience on the right. 
 
-[Link to ppt](https://docs.google.com/presentation/d/15ZHbI43pQHbNuK0kwOSw6m4CE-k1fWrH/edit?usp=drive_link&ouid=116336101988633535319&rtpof=true&sd=true)
+Every component in the site in customisable, their position too, user can use the template and  can rearrange the order of each section according to their preference
 
 -- ds.h1: Audience Of This Project
 
@@ -62,11 +64,15 @@ Developers looking for cool and compact portfolio.
 
 To display every detail in a compact way yet making it look good and elegant. 
 
-;; -- ds.h2: Hero 1
+-- ds.h1: Main Page
 
-;; -- ds.image:
-;; src: hero.png
 
-;; This section shows basic informaiton about me..
+This is the only page and it displays all the information, scrolling down the left side bar witll display work and education details and social handles too. 
+
+-- ds.image:
+src: $assets.files.assets.images.sreejita-hero.png
+
+-- ds.image:
+src: $assets.files.assets.images.sreejita-hero-2.png
 
 -- end: ds.page
