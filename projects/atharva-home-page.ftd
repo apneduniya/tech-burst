@@ -7,10 +7,19 @@ Design: [Link to Canva](https://pixel-pusher.my.canva.site/)
 
 Status: In Progress
 
+-- ds.h1: 17th Oct
+
+- Animations from `fastn-full-page` are applied into Pixel-Pusher.
+- Pixel-Pusher is up and ready for demonstration.
+
+-- ds.h1: 15th - 16th Oct
+
+- No progress in this section
+
 -- ds.h1: 14th Oct
 
 - A patch is suggested by Adarsh for bringing animations into any fastn project using wow.js
-- The fix did worked on a clean fastn-stack template.
+- The patch worked on a clean fastn-stack template.
 - Plans for bringing similar animations for Pixel-Pusher are set for 15th Oct
 
 -- ds.h1: 13th Oct
