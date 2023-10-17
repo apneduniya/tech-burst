@@ -1,3 +1,4 @@
+
 -- ds.page: 
 site-name: Tech Burst
 
@@ -24,7 +25,6 @@ site-name: Tech Burst
 
 -
 
-
 -- ds.h2: Goals and Objectives of the Project
 
 -
@@ -37,7 +37,7 @@ site-name: Tech Burst
 
 -- ds.h2: Project Agenda
 
-
+-
 
 -- ds.h2: Work Status
 
@@ -49,8 +49,8 @@ site-name: Tech Burst
 
 -- ds.h2: References
 
-- https://www.youtube.com/watch?v=G_ZIJseX6AU
-- https://iconscout.com/
+;; - https://www.youtube.com/watch?v=G_ZIJseX6AU
+;; - https://iconscout.com/
 
 -- end: ds.page
 
