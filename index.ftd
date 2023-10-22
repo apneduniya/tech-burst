@@ -2,55 +2,59 @@
 -- ds.page: 
 site-name: Tech Burst
 
--- ds.h2: About
+-- ds.image: 
+src: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/11/techbubble.jpg
+
+-- ds.h3: 😊 About
 
 - TechBurst team was created on 9th Oct 2023. 
-- Discord: [#tech-burst on fastn-stack](https://discord.com/channels/793929082483769345/1160945605087068291).
+;; - Discord: [#tech-burst on fastn-stack](https://discord.com/channels/793929082483769345/1160945605087068291).
 
--- ds.h2: Team Lead
+;; -- ds.h3: 🛡️ Team Lead
 
-- [Adarsh](https://thatsmeadarsh.co) is the team lead of team Tech Burst.
+;; - [Adarsh](https://thatsmeadarsh.co) is the team lead of team Tech Burst.
 
--- ds.h2: Team Members
+;; -- ds.h3: 👥 Team Members
 
-- Sreejita and Athrava are part of our team.
+;; - Sreejita and Athrava are part of our team.
 
+;; -- ds.h3: 🏃 Sprints
 
--- ds.h2: Sprints
+;; - [fastober-1](sprints/fastober-1/)
 
-- [Fastober-1](sprints/fastober-1/)
+;; -- ds.h3: 📙 Project Overview
 
+;; - The project is about creating a portfolio website for individuals with different designs and layouts. 
+;; - There are three website: **Simple**, **Content focused** and **Animated**.
 
--- ds.h2: Project Overview:
+;; -- ds.h3: 🎯 Goals and Objectives of the Project
 
--
+;; - The goal and objective of the project is to create a range of portfolio website for individuals with *different designs and layouts*.
+;; - **Simple website** will have a simple design with `basic animations and sections like navbar, projects, footer, etc and also an about page`.
+;; - **Content focused** website will have same things that simple website has but it will also have many sections which will help you to `showcase more about you, your skills, your projects and your achievements`.
+;; - **Animation intensive website** will have cover basic sections but `it will also have user interactive animations to make it look more attractive`.
 
--- ds.h2: Goals and Objectives of the Project
+;; -- ds.h3: 💻 Technology Stack
 
--
+;; - We are using [fastn](https://fastn.com) for this project.
 
--- ds.h2: Technology Stack
+;; -- ds.h3: 📅 Project Agenda
 
-- language is ftd
+;; - We had worked for 2 weeks on this project.
 
+;; -- ds.h3: 🚧 Work Status
 
+;; - ✅️ Designing the website.
+;; - ✅️ Coding the website.
+;; - ✅️ Adding animations to the website.
 
--- ds.h2: Project Agenda
+;; -- ds.h3: 📚 References
 
--
-
--- ds.h2: Work Status
-
--
-
-;; -- ds.h2: First Demo Day
-
-
-
--- ds.h2: References
-
-;; - https://www.youtube.com/watch?v=G_ZIJseX6AU
-;; - https://iconscout.com/
+;; - [Iconscout](https://iconscout.com/)
+;; - [Portfolio website inspiration](https://www.youtube.com/watch?v=G_ZIJseX6AU)
+;; - [Adarsh Website Figma Design](https://www.figma.com/file/qKIskaCZF6GMARG3JTeVqX/fastn-portfolio-website?type=design&node-id=0%3A1&mode=design&t=cBu80EAtRqD1VOCd-1)
+;; - [Atharva Website Canva Design](https://pixel-pusher.my.canva.site/)
+;; - [Sreejita Website Design](https://docs.google.com/presentation/d/15ZHbI43pQHbNuK0kwOSw6m4CE-k1fWrH/edit#slide=id.p1)
 
 -- end: ds.page
 
